@@ -1,6 +1,5 @@
 # USAGE
-# python ball_tracking.py --video ball_tracking_example.mp4
-# python ball_tracking.py
+# sources for object tracking:
 #https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/
 #https://piofthings.net/blog/opencv-baby-steps-4-building-a-hsv-calibrator
 
