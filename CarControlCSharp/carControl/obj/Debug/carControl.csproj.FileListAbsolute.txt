@@ -1,0 +1,10 @@
+C:\Users\varad\source\repos\carControl\carControl\bin\Debug\carControl.exe.config
+C:\Users\varad\source\repos\carControl\carControl\bin\Debug\carControl.exe
+C:\Users\varad\source\repos\carControl\carControl\bin\Debug\carControl.pdb
+C:\Users\varad\source\repos\carControl\carControl\obj\Debug\carControl.csprojAssemblyReference.cache
+C:\Users\varad\source\repos\carControl\carControl\obj\Debug\carControl.Form1.resources
+C:\Users\varad\source\repos\carControl\carControl\obj\Debug\carControl.Properties.Resources.resources
+C:\Users\varad\source\repos\carControl\carControl\obj\Debug\carControl.csproj.GenerateResource.cache
+C:\Users\varad\source\repos\carControl\carControl\obj\Debug\carControl.csproj.CoreCompileInputs.cache
+C:\Users\varad\source\repos\carControl\carControl\obj\Debug\carControl.exe
+C:\Users\varad\source\repos\carControl\carControl\obj\Debug\carControl.pdb
